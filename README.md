@@ -1,3 +1,6 @@
+# Requirements
+python >= 3.14
+
 # Init venv
 python -m venv .venv
 
