@@ -257,7 +257,7 @@ class VisionGuardAccidentDemo:
     def __init__(
         self,
         source,
-        model_path: str = "yolov8n.pt",
+        model_path: str = "yolov8s.pt",
         conf: float = 0.4,
         save_output: bool = False,
         output_path: str = "visionguard_output.mp4",
